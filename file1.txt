@@ -1,1 +1,2 @@
 hi this is the file used to build in jenkins
+this is based on poll scm
